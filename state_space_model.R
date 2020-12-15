@@ -132,6 +132,3 @@ for (i in 1:N) {
 }
 
 mu_smooth
-plot(Nile)
-par(new=T)
-plot(mu_smooth)
